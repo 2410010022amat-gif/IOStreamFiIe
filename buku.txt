@@ -1,0 +1,5 @@
+Laskar Pelangi;Andrea Hirata;10
+Bumi;Tere Liye;7
+Pemrograman Java;Abdul Kadir;5
+Algoritma;Rinaldi Munir;8
+Atomic Habits;James Clear;4
